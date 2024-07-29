@@ -14,7 +14,7 @@ const Header = () => {
             I am a passionate full stack developer with experience in building
             web applications. I enjoy creating beautiful and functional web
             applications. My skills include JavaScript, React, Node.js, CSS, and
-            HTML.
+            HTML .
           </p>
           <div className="social-links">
             <a
