@@ -13,8 +13,8 @@ const Header = () => {
           <p className="description">
             I am a passionate full stack developer with experience in building
             web applications. I enjoy creating beautiful and functional web
-            applications. My skills include JavaScript, React, Node.js, CSS, and
-            HTML .
+            applications. My skills include JavaScript,node js,postgresql,
+            React, Node.js, CSS, and HTML .
           </p>
           <div className="social-links">
             <a
